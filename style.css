@@ -4,9 +4,8 @@ body {
     font-size: 16pt;
 }
 
-img {
-    border-color: gray 2px;
-    width: 100%;
+.campanha {
+    border: solid 10px gray;
 }
 
 #principal {
