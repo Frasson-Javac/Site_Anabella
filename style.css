@@ -1,0 +1,41 @@
+body {
+    background-image: url(./media/imagem/fundo.png);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+}
+
+img {
+    width: 100%;
+}
+
+#principal {
+    /* div e tem o contener pincipal */
+    width: 900px;
+}
+
+.menu {
+    background: #c5c5c2;
+    font-size: 16pt;
+    padding: 18px;
+}
+
+.fundomenu {
+    background-color: wheat;
+    height: 50px;
+}
+
+.conteudo {
+    margin-top: 1px;
+    background-color: #E8E8D9;
+    padding: 10PX;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.centralizar {
+    text-align: center;
+}
