@@ -39,3 +39,8 @@ h1 {
     color: #828271;
     font-size: 1.2em;
 }
+
+span {
+    font-size: 10pt;
+    font-weight: bold;
+}
